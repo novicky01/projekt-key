@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "login": "bibliotekarz",
+            "password": "admin123",
+            "role": "Bibliotekarz",
+            "imie": "Jan",
+            "nazwisko": "Kowalski"
+        },
+        {
+            "login": "czytelnik",
+            "password": "czytelnik123",
+            "role": "Czytelnik",
+            "imie": "Anna",
+            "nazwisko": "Nowak"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "ksiazki": [
+        {
+            "tytul": "Pan Tadeusz",
+            "autor": "Adam Mickiewicz",
+            "isbn": "978-83-08-06015-5",
+            "status": "dostepna"
+        },
+        {
+            "tytul": "Przedwiośnie",
+            "autor": "Stefan Żeromski",
+            "isbn": "978-83-08-06019-3",
+            "status": "dostepna"
+        }
+    ]
+}
